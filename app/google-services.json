@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209504470371",
+    "firebase_url": "https://platatristanlab9.firebaseio.com",
+    "project_id": "platatristanlab9",
+    "storage_bucket": "platatristanlab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209504470371:android:7537daee46a39cc0",
+        "android_client_info": {
+          "package_name": "com.plata.tristan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209504470371-ktr14cj29tieebqguu4pqh32os34cpre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plata.tristan",
+            "certificate_hash": "4484e80deb557421bd25f05addb0ae536f9651e1"
+          }
+        },
+        {
+          "client_id": "209504470371-tehdo37pmfihsctue53r309lo46bnik7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3D53iOjlkNzm8vt26lRi9byCK-fvwPP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209504470371-tehdo37pmfihsctue53r309lo46bnik7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
